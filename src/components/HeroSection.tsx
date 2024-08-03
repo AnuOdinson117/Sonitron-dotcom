@@ -9,7 +9,7 @@ function Herosection() {
       <Spotlight className='-top-40 left-0 md:left-60 md:-top-20' fill='violet' />
       <div className='p-4 relative z-10 w-full text-center'>
         <h1 className='mt-20 md:mt-0 text-3xl md:text-6xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400'> 
-          Sonitron: Your Ultimate Music Library 
+          Sonitron Music Library 
         </h1>
         <p className='mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto'> 
           Dive into Sonitron, a comprehensive music library designed to elevate your auditory experience. Sonitron is your go-to destination for discovering and enjoying music. Whether you're a casual listener or a dedicated audiophile, find your sanctuary in sound. 

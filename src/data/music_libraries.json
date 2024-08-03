@@ -1,0 +1,184 @@
+{
+  "libraries": [
+    {
+      "id": 1,
+      "title": "Baroque Masterpieces",
+      "slug": "baroque-masterpieces",
+      "description": "Discover the grandeur of Baroque music with detailed compositions and lessons.",
+      "price": 149.99,
+      "composer": "Johann Sebastian Bach, George Frideric Handel, Antonio Vivaldi, Henry Purcell",
+      "isFeatured": false
+    },
+    {
+      "id": 2,
+      "title": "Romantic Era Symphonies",
+      "slug": "romantic-era-symphonies",
+      "description": "Immerse yourself in the emotional depth of Romantic era symphonies.",
+      "price": 159.99,
+      "composer": "Ludwig van Beethoven, Johannes Brahms, Pyotr Ilyich Tchaikovsky, Franz Schubert",
+      "isFeatured": false
+    },
+    {
+      "id": 3,
+      "title": "Contemporary Pop Hits",
+      "slug": "contemporary-pop-hits",
+      "description": "Learn to play the latest hits from today's top pop artists.",
+      "price": 89.99,
+      "composer": "Taylor Swift, Ed Sheeran, Ariana Grande, Billie Eilish",
+      "isFeatured": true
+    },
+    {
+      "id": 4,
+      "title": "Hip Hop Essentials",
+      "slug": "hip-hop-essentials",
+      "description": "Master the beats and rhythms of hip hop music with our expert tutorials.",
+      "price": 109.99,
+      "composer": "Dr. Dre, Kendrick Lamar, Kanye West, Jay-Z",
+      "isFeatured": true
+    },
+    {
+      "id": 5,
+      "title": "R&B Classics",
+      "slug": "rnb-classics",
+      "description": "Explore the soulful sounds of R&B with classic tracks and lessons.",
+      "price": 99.99,
+      "composer": "Aretha Franklin, Stevie Wonder, Marvin Gaye, Whitney Houston",
+      "isFeatured": false
+    },
+    {
+      "id": 6,
+      "title": "Country Ballads",
+      "slug": "country-ballads",
+      "description": "Get into the heart of country music with timeless ballads and instructional guides.",
+      "price": 79.99,
+      "composer": "Johnny Cash, Dolly Parton, Willie Nelson, Hank Williams",
+      "isFeatured": false
+    },
+    {
+      "id": 7,
+      "title": "Reggae Rhythms",
+      "slug": "reggae-rhythms",
+      "description": "Feel the groove of reggae with essential tracks and detailed lessons.",
+      "price": 69.99,
+      "composer": "Bob Marley, Peter Tosh, Burning Spear, Jimmy Cliff",
+      "isFeatured": false
+    },
+    {
+      "id": 8,
+      "title": "Folk Traditions",
+      "slug": "folk-traditions",
+      "description": "Explore traditional folk music from various cultures around the world.",
+      "price": 59.99,
+      "composer": "Joan Baez, Bob Dylan, Woody Guthrie, Pete Seeger",
+      "isFeatured": false
+    },
+    {
+      "id": 9,
+      "title": "World Music Fusion",
+      "slug": "world-music-fusion",
+      "description": "Experience the fusion of different world music genres with this eclectic collection.",
+      "price": 119.99,
+      "composer": "Yo-Yo Ma, Ravi Shankar, Youssou N'Dour, Anoushka Shankar",
+      "isFeatured": false
+    },
+    {
+      "id": 10,
+      "title": "Ambient Soundscapes",
+      "slug": "ambient-soundscapes",
+      "description": "Relax and unwind with ambient soundscapes designed to calm and soothe.",
+      "price": 49.99,
+      "composer": "Brian Eno, Moby, Tycho, Aphex Twin",
+      "isFeatured": false
+    },
+    {
+      "id": 11,
+      "title": "Latin Beats",
+      "slug": "latin-beats",
+      "description": "Feel the vibrant energy of Latin music with our comprehensive course.",
+      "price": 89.99,
+      "composer": "Carlos Santana, Shakira, Ricky Martin, Gloria Estefan",
+      "isFeatured": false
+    },
+    {
+      "id": 12,
+      "title": "K-Pop Sensations",
+      "slug": "kpop-sensations",
+      "description": "Learn to play the hottest K-Pop tracks with detailed tutorials.",
+      "price": 99.99,
+      "composer": "BTS, BLACKPINK, EXO, TWICE",
+      "isFeatured": true
+    },
+    {
+      "id": 13,
+      "title": "Metal Mayhem",
+      "slug": "metal-mayhem",
+      "description": "Master the intensity of metal music with our in-depth lessons.",
+      "price": 119.99,
+      "composer": "Metallica, Iron Maiden, Black Sabbath, Slayer",
+      "isFeatured": false
+    },
+    {
+      "id": 14,
+      "title": "Punk Rock Anthems",
+      "slug": "punk-rock-anthems",
+      "description": "Learn the raw energy of punk rock with classic tracks and instructional guides.",
+      "price": 79.99,
+      "composer": "The Ramones, Sex Pistols, The Clash, Green Day",
+      "isFeatured": false
+    },
+    {
+      "id": 15,
+      "title": "Indie Rock Gems",
+      "slug": "indie-rock-gems",
+      "description": "Discover the best of indie rock with our curated collection of songs and lessons.",
+      "price": 89.99,
+      "composer": "Arctic Monkeys, The Strokes, Vampire Weekend, Tame Impala",
+      "isFeatured": false
+    },
+    {
+      "id": 16,
+      "title": "Alternative Rock Classics",
+      "slug": "alternative-rock-classics",
+      "description": "Explore the defining tracks of alternative rock with our detailed tutorials.",
+      "price": 99.99,
+      "composer": "Nirvana, Radiohead, Pearl Jam, Red Hot Chili Peppers",
+      "isFeatured": true
+    },
+    {
+      "id": 17,
+      "title": "Soundtrack Scores",
+      "slug": "soundtrack-scores",
+      "description": "Experience the magic of film music with our collection of iconic soundtrack scores.",
+      "price": 129.99,
+      "composer": "John Williams, Hans Zimmer, Ennio Morricone, Howard Shore",
+      "isFeatured": true
+    },
+    {
+      "id": 18,
+      "title": "Holiday Favorites",
+      "slug": "holiday-favorites",
+      "description": "Celebrate the festive season with our collection of holiday music.",
+      "price": 49.99,
+      "composer": "Bing Crosby, Mariah Carey, Nat King Cole, Frank Sinatra",
+      "isFeatured": false
+    },
+    {
+      "id": 19,
+      "title": "Dance Floor Hits",
+      "slug": "dance-floor-hits",
+      "description": "Get the party started with our collection of dance floor anthems.",
+      "price": 79.99,
+      "composer": "David Guetta, Calvin Harris, Avicii, Tiesto",
+      "isFeatured": true
+    },
+    {
+      "id": 20,
+      "title": "New Age Relaxation",
+      "slug": "new-age-relaxation",
+      "description": "Unwind with soothing new age music designed for relaxation and meditation.",
+      "price": 59.99,
+      "composer": "Enya, Yanni, Loreena McKennitt, Kitaro",
+      "isFeatured": false
+    }
+  ]
+}
